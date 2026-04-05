@@ -1,0 +1,17 @@
+menu: Meny
+home: Hem
+pageNotFound: Sidan hittades inte
+toHomepage: Gå till startsidan
+closeTitle: Stäng
+zoomTitle: Zooma
+arrowPrevTitle: Föregående
+arrowNextTitle: Nästa
+errorMsg: Fotot kunde inte laddas
+downloadTitle: Ladda ner
+relatedAlbums: Relaterade album
+photoCount:
+  one: 1 foto
+  other: "{{ . }} foton"
+albumCount:
+  one: "{{ .photoCount }} i {{ .count }} album"
+  other: "{{ .photoCount }} i {{ .count }} album"

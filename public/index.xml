@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IC Gallery — From Brazil to Europe on International Convention Gallery — EuroTrip</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in IC Gallery — From Brazil to Europe on International Convention Gallery — EuroTrip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>International Convention - Sao Paulo -  2019</title>
+      <link>http://localhost:1313/sao_paulo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sao_paulo/</guid>
+        <media:content url="http://localhost:1313/sao_paulo/main_hu_892288fcf4760f41.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/sao_paulo/main_hu_892288fcf4760f41.jpg&quot; /&gt;
+          &lt;p&gt;Add a description here&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>International Convention - Stockholm -  2026</title>
+      <link>http://localhost:1313/stockholm/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stockholm/</guid>
+        <media:content url="http://localhost:1313/stockholm/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/stockholm/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;Add a description here&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>London</title>
+      <link>http://localhost:1313/eurotrip/london/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eurotrip/london/</guid>
+        <media:content url="http://localhost:1313/eurotrip/london/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/eurotrip/london/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;The vibrant heart of Brazil — street art, food, and city life.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Oslo</title>
+      <link>http://localhost:1313/eurotrip/oslo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eurotrip/oslo/</guid>
+        <media:content url="http://localhost:1313/eurotrip/oslo/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/eurotrip/oslo/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;The vibrant heart of Brazil — street art, food, and city life.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Paris</title>
+      <link>http://localhost:1313/eurotrip/paris/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eurotrip/paris/</guid>
+        <media:content url="http://localhost:1313/eurotrip/paris/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/eurotrip/paris/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+        <media:content url="http://localhost:1313/about/main_hu_cee665fe38b05f5c.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/about/main_hu_cee665fe38b05f5c.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

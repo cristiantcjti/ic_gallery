@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  {{ $img := .Resources.GetMatch "main.jpg" }}
+  {{ with $img }}
+    <div class="about-image">
+      <img src="{{ .RelPermalink }}" alt="About IC Gallery">
+    </div>
+  {{ end }}
+  {{ with .Content }}
+    <section class="about-content">
+      {{ . }}
+    </section>
+  {{ end }}
+{{ end }}

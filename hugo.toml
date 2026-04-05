@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+defaultContentLanguage = 'en'
+title = 'International Convention Gallery — EuroTrip'
+theme = 'gallery'
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 1
+  [languages.pt]
+    languageCode = 'pt'
+    languageName = 'Português'
+    weight = 2
+  [languages.sv]
+    languageCode = 'sv'
+    languageName = 'Svenska'
+    weight = 3
+
+[params]
+  defaultTheme = "dark"
+  description = "Our Europe adventure — photos by Dani & Cris"
+  title = "IC Gallery"
+
+[related]
+  includeNewer = true
+  threshold = 10
+  [[related.indices]]
+    name = 'categories'
+    weight = 10

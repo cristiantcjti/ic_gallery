@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eurotrips on International Convention Gallery — EuroTrip</title>
+    <link>http://localhost:1313/sv/eurotrip/</link>
+    <description>Recent content in Eurotrips on International Convention Gallery — EuroTrip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/sv/eurotrip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>São Paulo</title>
+      <link>http://localhost:1313/sv/eurotrip/london/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sv/eurotrip/london/</guid>
+        <media:content url="http://localhost:1313/eurotrip/london/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/eurotrip/london/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;Congresso internacional - 2019.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>São Paulo</title>
+      <link>http://localhost:1313/sv/eurotrip/oslo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sv/eurotrip/oslo/</guid>
+        <media:content url="http://localhost:1313/eurotrip/oslo/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/eurotrip/oslo/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
+          &lt;p&gt;Congresso internacional - 2019.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
