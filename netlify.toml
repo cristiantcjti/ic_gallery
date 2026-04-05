@@ -1,0 +1,24 @@
+[build]
+  publish = "public"
+  command = "git config core.quotepath false && hugo build --gc --minify --baseURL \"${URL}\""
+
+[build.environment]
+  HUGO_VERSION = "0.147.0"
+  NODE_VERSION = "22"
+  TZ = "America/Sao_Paulo"
+
+[context.deploy-preview]
+  command = "git config core.quotepath false && hugo build --gc --minify --buildFuture --baseURL \"${DEPLOY_PRIME_URL}\""
+
+[context.branch-deploy]
+  command = "git config core.quotepath false && hugo build --gc --minify --baseURL \"${DEPLOY_URL}\""
+
+[[headers]]
+  for = "/*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
