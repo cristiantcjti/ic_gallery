@@ -64,22 +64,22 @@
                 href="http://localhost:1313/pt/sao_paulo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/eurotrip/</loc>
+    <loc>http://localhost:1313/pt/europe/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/eurotrip/"
+                href="http://localhost:1313/europe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/eurotrip/"
+                href="http://localhost:1313/sv/europe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/eurotrip/"
+                href="http://localhost:1313/pt/europe/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/</loc>
@@ -100,40 +100,40 @@
                 href="http://localhost:1313/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/eurotrip/london/</loc>
+    <loc>http://localhost:1313/pt/europe/london/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/eurotrip/london/"
+                href="http://localhost:1313/europe/london/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/eurotrip/london/"
+                href="http://localhost:1313/sv/europe/london/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/eurotrip/london/"
+                href="http://localhost:1313/pt/europe/london/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/eurotrip/oslo/</loc>
+    <loc>http://localhost:1313/pt/europe/oslo/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/eurotrip/oslo/"
+                href="http://localhost:1313/europe/oslo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/eurotrip/oslo/"
+                href="http://localhost:1313/sv/europe/oslo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/eurotrip/oslo/"
+                href="http://localhost:1313/pt/europe/oslo/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/stockholm/</loc>

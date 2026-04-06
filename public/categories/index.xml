@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on International Convention Gallery — EuroTrip</title>
+    <title>Categories on International Convention Gallery</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on International Convention Gallery — EuroTrip</description>
+    <description>Recent content in Categories on International Convention Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/brazil/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Eurotrip</title>
-      <link>http://localhost:1313/categories/eurotrip/</link>
+      <title>Europe</title>
+      <link>http://localhost:1313/categories/europe/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/eurotrip/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/europe/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Stockholm</title>
       <link>http://localhost:1313/categories/stockholm/</link>

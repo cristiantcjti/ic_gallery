@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 defaultContentLanguage = 'en'
-title = 'International Convention Gallery — EuroTrip'
+title = 'International Convention Gallery'
 theme = 'gallery'
 
 [languages]

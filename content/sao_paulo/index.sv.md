@@ -5,7 +5,7 @@ description: "Congresso internacional - 2019."
 categories: ["Brasil"]
 resources:
   - src: main.jpg
-    title: "Aeroporto"
+    title: "ic_symbol"
     params:
       cover: true          # use as album thumbnail
 ---

@@ -6,7 +6,7 @@ resources:
     title: "IC Gallery"
 ---
 
-Welcome to **IC Gallery**!
+Welcome to our **IC Gallery**!
 
 We are Dani & Cris, and this is our photo journal documenting our journey from Brazil to Europe. From the vibrant streets of São Paulo to the charm of European cities, we capture the moments that make each place special.
 

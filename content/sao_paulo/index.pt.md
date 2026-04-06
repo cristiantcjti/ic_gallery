@@ -5,7 +5,7 @@ description: "Adicionar descrição"
 categories: ["Brazil"]
 resources:
   - src: main.jpg
-    title: "No banner do IC"
+    title: "Simbolo do IC"
     params:
       cover: true
 ---

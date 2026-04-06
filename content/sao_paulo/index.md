@@ -5,7 +5,7 @@ description: "Add a description here"
 categories: ["Brazil"]
 resources:
   - src: main.jpg
-    title: "At the IC banner"
+    title: "ic_symbol"
     params:
       cover: true
 ---
