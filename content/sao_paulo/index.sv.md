@@ -1,11 +1,11 @@
 ---
-title: "São Paulo"
+title: "Internationell kongress - São Paulo - 2019"
 date: 2026-03-28
-description: "Congresso internacional - 2019."
-categories: ["Brasil"]
+description: "Lägg till en beskrivning här"
+categories: ["Brasilien"]
 resources:
   - src: main.jpg
     title: "ic_symbol"
     params:
-      cover: true          # use as album thumbnail
+      cover: true
 ---

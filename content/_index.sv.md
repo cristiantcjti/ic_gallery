@@ -1,4 +1,4 @@
 ---
-title: "IC Gallery — From Brazil to Sweeden"
-description: "Follow our adventure from the 2019 São Paulo International Convention to the 2026 Stockohlm International Convention! We hope you enjoy browsing the photo galleries. Also, check out the About section to know more about us!"
+title: "IC Gallery — Från Brasilien till Sverige"
+description: "Välkommen till vårt fotoalbum. Här finns bilder från vår upplevelse vid den internationella kongressen i São Paulo, Brasilien, år 2019, samt bilder från vår resa till den internationella kongressen i Stockholm, Sverige, år 2026. Vi hoppas kunna dela så mycket som möjligt av upplevelsen och kärleken från dessa evenemang som vår kärleksfulle Gud Jehova har låtit oss få uppleva."
 ---

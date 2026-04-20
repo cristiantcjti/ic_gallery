@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IC Gallery — From Brazil to Sweeden on International Convention Gallery</title>
+    <title>IC Gallery — Från Brasilien till Sverige on International Convention Gallery</title>
     <link>http://localhost:1313/sv/</link>
-    <description>Recent content in IC Gallery — From Brazil to Sweeden on International Convention Gallery</description>
+    <description>Recent content in IC Gallery — Från Brasilien till Sverige on International Convention Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/sv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internationell kongress - São Paulo - 2019</title>
+      <link>http://localhost:1313/sv/sao_paulo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sv/sao_paulo/</guid>
+        <media:content url="http://localhost:1313/sao_paulo/main_hu_af35c1e3af831659.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/sao_paulo/main_hu_af35c1e3af831659.jpg&quot; /&gt;
+          &lt;p&gt;Lägg till en beskrivning här&lt;/p&gt;
+        </description></item>
     <item>
       <title>São Paulo</title>
       <link>http://localhost:1313/sv/europe/london/</link>
@@ -25,16 +35,6 @@
         <media:content url="http://localhost:1313/europe/oslo/airport_hu_11574dd75865f1f7.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/europe/oslo/airport_hu_11574dd75865f1f7.jpg&quot; /&gt;
-          &lt;p&gt;Congresso internacional - 2019.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>São Paulo</title>
-      <link>http://localhost:1313/sv/sao_paulo/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/sao_paulo/</guid>
-        <media:content url="http://localhost:1313/sao_paulo/main_hu_af35c1e3af831659.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/sao_paulo/main_hu_af35c1e3af831659.jpg&quot; /&gt;
           &lt;p&gt;Congresso internacional - 2019.&lt;/p&gt;
         </description></item>
     <item>
