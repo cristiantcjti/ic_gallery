@@ -35,6 +35,21 @@
   </url><url>
     <loc>http://localhost:1313/categories/europe/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/categories/europe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/categories/europe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/europe/"
+                />
   </url><url>
     <loc>http://localhost:1313/europe/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
@@ -146,8 +161,23 @@
   </url><url>
     <loc>http://localhost:1313/europe/paris/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/europe/paris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/europe/paris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/europe/paris/"
+                />
   </url><url>
-    <loc>http://localhost:1313/categories/stockholm/</loc>
+    <loc>http://localhost:1313/categories/sweden/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -165,6 +195,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/stockholm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/su%C3%A9cia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/categories/su%C3%A9cia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/su%C3%A9cia/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/sverige/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/categories/sverige/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/sverige/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

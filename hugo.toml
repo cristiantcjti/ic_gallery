@@ -22,6 +22,11 @@ theme = 'gallery'
   description = "Our Europe adventure — photos by Dani & Cris"
   title = "IC Gallery"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [related]
   includeNewer = true
   threshold = 10

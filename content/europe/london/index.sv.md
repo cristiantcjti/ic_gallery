@@ -4,8 +4,8 @@ date: 2026-03-28
 description: "Congresso internacional - 2019."
 categories: ["Brasil"]
 resources:
-  - src: airport.jpg
-    title: "Aeroporto"
+  - src: main.jpg
+    title: "london"
     params:
       cover: true          # use as album thumbnail
 ---

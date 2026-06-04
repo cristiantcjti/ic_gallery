@@ -4,10 +4,10 @@ date: 2026-03-28
 description: "The City of Light — Eiffel Tower, Louvre, and more."
 categories: ["Europe"]
 resources:
-  - src: eiffel-tower.jpg
+  - src: main.jpg
     title: "Eiffel Tower at sunset"
     params:
       cover: true          # use as album thumbnail
-  - src: airport.jpg
+  - src: main.jpg
     title: "Eiffel Tower at sunset"
 ---
