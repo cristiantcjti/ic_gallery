@@ -5,7 +5,7 @@ description: "The vibrant heart of Brazil — street art, food, and city life."
 categories: ["Europe"]
 resources:
   - src: main.jpg
-    title: "Eiffel Tower at sunset"
+    title: "Oslo view"
     params:
       cover: true          # use as album thumbnail
 ---
