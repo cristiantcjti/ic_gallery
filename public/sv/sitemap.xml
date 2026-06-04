@@ -15,6 +15,9 @@
                 href="http://localhost:1313/sv/categories/brasil/"
                 />
   </url><url>
+    <loc>http://localhost:1313/sv/categories/brasilien/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sv/categories/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,6 +72,24 @@
                 href="http://localhost:1313/sv/"
                 />
   </url><url>
+    <loc>http://localhost:1313/sv/sao_paulo/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/sao_paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/sao_paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/sao_paulo/"
+                />
+  </url><url>
     <loc>http://localhost:1313/sv/europe/london/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -103,24 +124,6 @@
                 rel="alternate"
                 hreflang="sv"
                 href="http://localhost:1313/sv/europe/oslo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/sv/sao_paulo/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/sao_paulo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/sao_paulo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/sao_paulo/"
                 />
   </url><url>
     <loc>http://localhost:1313/sv/stockholm/</loc>

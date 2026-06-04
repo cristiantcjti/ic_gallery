@@ -1,11 +1,11 @@
 ---
-title: "São Paulo"
+title: "Londres"
 date: 2026-03-28
-description: "Congresso internacional - 2019."
+description: "Description here"
 categories: ["Brasil"]
 resources:
-  - src: airport.jpg
-    title: "Aeroporto"
+  - src: main.jpg
+    title: "Vista de londres"
     params:
       cover: true          # use as album thumbnail
 ---

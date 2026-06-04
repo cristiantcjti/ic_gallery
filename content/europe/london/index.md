@@ -1,11 +1,12 @@
 ---
-title: "London"
+title: "Londres"
 date: 2026-03-28
-description: "The vibrant heart of Brazil — street art, food, and city life."
+description: "Description here"
 categories: ["Europe"]
 resources:
-  - src: airport.jpg
-    title: "Eiffel Tower at sunset"
+  - src: main.jpg
+    title: "Vista de londres"
     params:
       cover: true          # use as album thumbnail
 ---
+
