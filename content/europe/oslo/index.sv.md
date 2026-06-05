@@ -1,7 +1,7 @@
 ---
-title: "São Paulo"
+title: "Oslo"
 date: 2026-03-28
-description: "Congresso internacional - 2019."
+description: "Description here"
 categories: ["Europe"]
 resources:
   - src: main.jpg

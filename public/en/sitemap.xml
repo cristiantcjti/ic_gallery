@@ -197,32 +197,6 @@
                 href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/stockholm/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/su%C3%A9cia/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/categories/su%C3%A9cia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/su%C3%A9cia/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/sverige/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/categories/sverige/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/sverige/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
