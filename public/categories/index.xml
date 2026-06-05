@@ -22,20 +22,5 @@
       <link>http://localhost:1313/categories/sweden/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/sweden/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Stockholm</title>
-      <link>http://localhost:1313/categories/stockholm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/stockholm/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Suécia</title>
-      <link>http://localhost:1313/categories/su%C3%A9cia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/su%C3%A9cia/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Sverige</title>
-      <link>http://localhost:1313/categories/sverige/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sverige/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
