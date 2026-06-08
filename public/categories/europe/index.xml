@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/europe/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Paris</title>
+      <link>http://localhost:1313/europe/paris/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/europe/paris/</guid>
+        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
+          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Londres</title>
       <link>http://localhost:1313/europe/london/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
@@ -28,14 +38,9 @@
           &lt;p&gt;The vibrant heart of Brazil — street art, food, and city life.&lt;/p&gt;
         </description></item>
     <item>
-      <title>Paris</title>
-      <link>http://localhost:1313/europe/paris/</link>
+      <title>Europe</title>
+      <link>http://localhost:1313/europe/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/europe/paris/</guid>
-        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
-          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/europe/</guid><description>Since we were travelling to the international convention in Sweden, we decided to take the opportunity (and the flight 😅) to visit some new countries, revisit old friends, and meet new ones from our worldwide family.</description></item>
   </channel>
 </rss>

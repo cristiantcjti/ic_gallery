@@ -17,6 +17,8 @@ theme = 'gallery'
     languageName = 'Svenska'
     weight = 3
 
+disableKinds = ["taxonomy"]
+
 [params]
   defaultTheme = "dark"
   description = "Our Europe adventure — photos by Dani & Cris"
@@ -26,10 +28,3 @@ theme = 'gallery'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[related]
-  includeNewer = true
-  threshold = 10
-  [[related.indices]]
-    name = 'categories'
-    weight = 10
