@@ -30,6 +30,16 @@
  Härnäst kommer du att kunna se en del av denna berättelse presenterad som en tidslinje genom följande bilder.&lt;/p&gt;
         </description></item>
     <item>
+      <title>Paris</title>
+      <link>http://localhost:1313/sv/europe/paris/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sv/europe/paris/</guid>
+        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
+          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Internationell kongress - Stockholm - 2026</title>
       <link>http://localhost:1313/sv/stockholm/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
@@ -68,17 +78,7 @@
           &lt;p&gt;Description here&lt;/p&gt;
         </description></item>
     <item>
-      <title>Paris</title>
-      <link>http://localhost:1313/sv/europe/paris/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/europe/paris/</guid>
-        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
-          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>About Us</title>
+      <title>Om oss</title>
       <link>http://localhost:1313/sv/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sv/about/</guid>

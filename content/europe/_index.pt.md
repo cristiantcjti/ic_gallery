@@ -9,3 +9,5 @@ resources:
     params:
       cover: true          # use as album thumbnail
 ---
+
+"Já que viajaríamos para o congresso internacional na Suécia, decidimos aproveitar a oportunidade (e a passagem 😅) para visitar alguns novos países, rever velhos amigos e encontrar novos dentre a nossa família mundial."

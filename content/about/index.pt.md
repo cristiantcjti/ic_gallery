@@ -1,13 +1,27 @@
 ---
-title: "About Us"
+title: "Sobre nós"
+weight: 3
 layout: "about"
 resources:
   - src: main.jpg
     title: "IC Gallery"
 ---
 
-Welcome to **IC Gallery**!
+Bem vindos a **Galeria do Congresso Internacional**
 
-We are Dani & Cris, and this is our photo journal documenting our journey from Brazil to Europe. From the vibrant streets of São Paulo to the charm of European cities, we capture the moments that make each place special.
+Somos a Dani e o Cris. Servimos como pioneiros em uma congregação do idioma inglês na cidade de São Paulo, Brasil.
 
-Thanks for visiting!
+Jeová nos deu o grande privilégio de assistir ao conggresso internacional na cidade de Estocolmo na Suécia.
+
+Por isso, resolvemos criar esses site para compartilhar com os amigos esse momento tão especial para nós.
+
+Se você chegou até o site é porque já nos conhecemos ou somos novos amigos. Esperamos que gostem das fotos e possamos dividir essa experiência com todos vocês. 
+
+Sintam-se à vontade para nos mandar menssagens e obrigado por visitar o site. 
+
+Com amor,
+
+Daniele & Cristian.<br>
++55 (11) 96881-8261 - Dani<br>
++55 (11) 96157-4261 - Cris
+

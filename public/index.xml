@@ -30,6 +30,16 @@
  Next, you will be able to see a part of this story presented as a timeline through the following photos.&lt;/p&gt;
         </description></item>
     <item>
+      <title>Paris</title>
+      <link>http://localhost:1313/europe/paris/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/europe/paris/</guid>
+        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
+          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>International Convention - Stockholm -  2026</title>
       <link>http://localhost:1313/stockholm/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
@@ -66,16 +76,6 @@
         <description>
           &lt;img src=&quot;http://localhost:1313/europe/oslo/main_hu_538fe8cfbd6e594.jpg&quot; /&gt;
           &lt;p&gt;The vibrant heart of Brazil — street art, food, and city life.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Paris</title>
-      <link>http://localhost:1313/europe/paris/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/europe/paris/</guid>
-        <media:content url="http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/europe/paris/main_hu_568980562d69692b.jpg&quot; /&gt;
-          &lt;p&gt;The City of Light — Eiffel Tower, Louvre, and more.&lt;/p&gt;
         </description></item>
     <item>
       <title>About Us</title>
