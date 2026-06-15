@@ -10,4 +10,8 @@ resources:
     title: "ic_symbol"
     params:
       cover: true
+  - src: my.mp4
+    title: "airport"
+    params:
+      poster: airport.jpg
 ---
