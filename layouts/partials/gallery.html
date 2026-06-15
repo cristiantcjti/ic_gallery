@@ -1,0 +1,102 @@
+<section class="gallery">
+  <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
+    {{ $page := . }}
+    {{ $sortBy := .Params.sort_by | default "Name" }}
+    {{ $sortOrder := .Params.sort_order | default "asc" }}
+    {{ $publishResources := default true .Params.build.publishResources }}
+
+    {{ $items := slice }}
+
+    {{/* Collect images */}}
+    {{ range $image := where (.Resources.ByType "image") "Params.hidden" "ne" true }}
+      {{ $title := "" }}
+      {{ $date := "" }}
+      {{ with $image.Exif }}
+        {{ $date = .Date }}
+        {{ with .Tags.ImageDescription }}
+          {{ $title = . }}
+        {{ end }}
+      {{ end }}
+      {{ if ne $image.Title $image.Name }}
+        {{ $title = $image.Title }}
+      {{ end }}
+      {{ if $image.Params.Date }}
+        {{ $date = time $image.Params.Date }}
+      {{ end }}
+      {{ $items = $items | append (dict
+        "Name" $image.Name
+        "Title" $title
+        "Date" $date
+        "resource" $image
+        "Params" $image.Params
+        "isVideo" false
+      )}}
+    {{ end }}
+
+    {{/* Collect videos */}}
+    {{ range $video := where (.Resources.ByType "video") "Params.hidden" "ne" true }}
+      {{ $title := $video.Title }}
+      {{ if eq $title $video.Name }}{{ $title = "" }}{{ end }}
+      {{ if ne $video.Title $video.Name }}
+        {{ $title = $video.Title }}
+      {{ end }}
+      {{ $items = $items | append (dict
+        "Name" $video.Name
+        "Title" $title
+        "Date" ($video.Params.Date | default "")
+        "resource" $video
+        "Params" $video.Params
+        "isVideo" true
+      )}}
+    {{ end }}
+
+    {{ range sort $items $sortBy $sortOrder }}
+      {{ if .isVideo }}
+        {{ $video := .resource }}
+        {{ $vidWidth := $video.Params.width | default 1280 }}
+        {{ $vidHeight := $video.Params.height | default 720 }}
+        {{ $poster := "" }}
+        {{ with $video.Params.poster }}
+          {{ $posterRes := $page.Resources.GetMatch . }}
+          {{ with $posterRes }}
+            {{ $poster = (.Filter (slice images.AutoOrient (images.Process "fit 600x600"))).RelPermalink }}
+          {{ end }}
+        {{ end }}
+        <a class="gallery-item gallery-item--video"
+           href="{{ $video.RelPermalink }}"
+           data-pswp-src="{{ $video.RelPermalink }}"
+           data-pswp-type="video"
+           data-pswp-width="{{ $vidWidth }}"
+           data-pswp-height="{{ $vidHeight }}"
+           data-pswp-target="{{ $video.Name | urlize }}"
+           data-width="{{ $vidWidth }}"
+           data-height="{{ $vidHeight }}"
+           title="{{ .Title }}"
+           style="aspect-ratio: {{ $vidWidth }} / {{ $vidHeight }}">
+          <figure style="background-color: #000; aspect-ratio: {{ $vidWidth }} / {{ $vidHeight }}">
+            {{ if $poster }}
+              <img class="lazyload" width="{{ $vidWidth }}" height="{{ $vidHeight }}" data-src="{{ $poster }}" alt="{{ .Title }}" />
+            {{ end }}
+            <span class="gallery-play-icon">&#9654;</span>
+          </figure>
+        </a>
+      {{ else }}
+        {{ $image := .resource }}
+        {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
+        {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
+        {{ $color := index $thumbnail.Colors 0 | default "transparent" }}
+        <a class="gallery-item" href="{{ if $publishResources }}{{ $image.RelPermalink }}{{ else }}{{ $full.RelPermalink }}{{ end }}" data-pswp-src="{{ $full.RelPermalink }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" data-pswp-target="{{ $image.Name | urlize }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
+          <figure style="background-color: {{ $color }}; aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
+            <img class="lazyload" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" data-src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" />
+          </figure>
+          <meta itemprop="contentUrl" content="{{ if $publishResources }}{{ $image.RelPermalink }}{{ else }}{{ $full.RelPermalink }}{{ end }}" />
+          {{ with site.Params.Author }}
+            <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+              <meta itemprop="name" content="{{ site.Params.Author.name }}" />
+            </span>
+          {{ end }}
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>

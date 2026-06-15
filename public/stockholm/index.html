@@ -38,7 +38,7 @@ Only at that moment did we feel more confident about the certainty of our trip. 
   <link rel="stylesheet" href="/css/main.min.929a37b4f846bf86c1bf9935695bb75dbed775e4c8f11304661afa14f26407c0.css" />
   
   
-  <script src="/js/main.4051f74989351d84916e4c5770359987d2b2c074b564911cf79e1e3b6a4b5bb8.js" defer></script><style>
+  <script src="/js/main.92fd9eda474bba2b8af038b68d6673e76b000cfb090ff041234449e71bcaa6b5.js" defer></script><style>
   .lang-switcher {
     display: flex;
     gap: 0.5rem;
@@ -89,6 +89,31 @@ Only at that moment did we feel more confident about the certainty of our trip. 
   }
   .about-content p {
     margin-bottom: 1rem;
+  }
+  .gallery-item--video figure {
+    background-color: #000;
+    position: relative;
+  }
+  .gallery-play-icon {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    color: rgba(255, 255, 255, 0.85);
+    pointer-events: none;
+  }
+  .pswp__video-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+  .pswp__video-container video {
+    max-width: 100%;
+    max-height: 100%;
   }
 </style>
 </head>
@@ -170,6 +195,13 @@ Only at that moment did we feel more confident about the certainty of our trip. 
   <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
     
     
+    
+    
+
+    
+
+    
+    
       
       
       
@@ -188,36 +220,42 @@ Only at that moment did we feel more confident about the certainty of our trip. 
       
       
         
+      
+      
+      
+    
+
+    
+    
+
+    
+      
         
-      
-      
-      
-    
-    
-    
-      
-      
-      
-      
-      <a class="gallery-item" href="/stockholm/1.jpg" data-pswp-src="/stockholm/1_hu_da9a1f5aae8d705c.jpg" data-pswp-width="1280" data-pswp-height="960" data-pswp-target="1.jpg" title="" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: 600 / 450">
-        <figure style="background-color: #8a8679; aspect-ratio: 600 / 450">
-          <img class="lazyload" width="600" height="450" data-src="/stockholm/1_hu_ab37d5d7aff770e8.jpg" alt="" />
-        </figure>
-        <meta itemprop="contentUrl" content="/stockholm/1.jpg" />
         
-      </a>
+        
+        
+        <a class="gallery-item" href="/stockholm/1.jpg" data-pswp-src="/stockholm/1_hu_da9a1f5aae8d705c.jpg" data-pswp-width="1280" data-pswp-height="960" data-pswp-target="1.jpg" title="" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: 600 / 450">
+          <figure style="background-color: #8a8679; aspect-ratio: 600 / 450">
+            <img class="lazyload" width="600" height="450" data-src="/stockholm/1_hu_ab37d5d7aff770e8.jpg" alt="" />
+          </figure>
+          <meta itemprop="contentUrl" content="/stockholm/1.jpg" />
+          
+        </a>
+      
     
       
-      
-      
-      
-      <a class="gallery-item" href="/stockholm/main.jpg" data-pswp-src="/stockholm/main_hu_e29b010538d2df4e.jpg" data-pswp-width="945" data-pswp-height="945" data-pswp-target="main.jpg" title="ic symbol" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: 600 / 600">
-        <figure style="background-color: #fefefe; aspect-ratio: 600 / 600">
-          <img class="lazyload" width="600" height="600" data-src="/stockholm/main_hu_9fa2165c7c7ea9ef.jpg" alt="ic symbol" />
-        </figure>
-        <meta itemprop="contentUrl" content="/stockholm/main.jpg" />
         
-      </a>
+        
+        
+        
+        <a class="gallery-item" href="/stockholm/main.jpg" data-pswp-src="/stockholm/main_hu_e29b010538d2df4e.jpg" data-pswp-width="945" data-pswp-height="945" data-pswp-target="main.jpg" title="ic symbol" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: 600 / 600">
+          <figure style="background-color: #fefefe; aspect-ratio: 600 / 600">
+            <img class="lazyload" width="600" height="600" data-src="/stockholm/main_hu_9fa2165c7c7ea9ef.jpg" alt="ic symbol" />
+          </figure>
+          <meta itemprop="contentUrl" content="/stockholm/main.jpg" />
+          
+        </a>
+      
     
   </div>
 </section>
