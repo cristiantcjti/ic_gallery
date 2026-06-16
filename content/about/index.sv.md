@@ -25,7 +25,7 @@ Känn er fria att skicka meddelanden till oss och tack för att ni besöker vår
 
 Med kärlek,
 
-Daniele & Cristian.<br>
+Daniele & Cristian<br>
 +55 (11) 96881-8261 - Dani<br>
 +55 (11) 96157-4261 - Cris<br>
 cristiantcj@gmail.com
