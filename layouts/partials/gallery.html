@@ -9,28 +9,40 @@
 
     {{/* Collect images */}}
     {{ range $image := where (.Resources.ByType "image") "Params.hidden" "ne" true }}
-      {{ $title := "" }}
-      {{ $date := "" }}
-      {{ with $image.Exif }}
-        {{ $date = .Date }}
-        {{ with .Tags.ImageDescription }}
-          {{ $title = . }}
+      {{ $imageName := lower $image.Name }}
+      {{ $isSupported := or
+        (hasSuffix $imageName ".jpg")
+        (hasSuffix $imageName ".jpeg")
+        (hasSuffix $imageName ".png")
+        (hasSuffix $imageName ".gif")
+        (hasSuffix $imageName ".tif")
+        (hasSuffix $imageName ".tiff")
+        (hasSuffix $imageName ".webp")
+      }}
+      {{ if $isSupported }}
+        {{ $title := "" }}
+        {{ $date := "" }}
+        {{ with $image.Exif }}
+          {{ $date = .Date }}
+          {{ with .Tags.ImageDescription }}
+            {{ $title = . }}
+          {{ end }}
         {{ end }}
+        {{ if ne $image.Title $image.Name }}
+          {{ $title = $image.Title }}
+        {{ end }}
+        {{ if $image.Params.Date }}
+          {{ $date = time $image.Params.Date }}
+        {{ end }}
+        {{ $items = $items | append (dict
+          "Name" $image.Name
+          "Title" $title
+          "Date" $date
+          "resource" $image
+          "Params" $image.Params
+          "isVideo" false
+        )}}
       {{ end }}
-      {{ if ne $image.Title $image.Name }}
-        {{ $title = $image.Title }}
-      {{ end }}
-      {{ if $image.Params.Date }}
-        {{ $date = time $image.Params.Date }}
-      {{ end }}
-      {{ $items = $items | append (dict
-        "Name" $image.Name
-        "Title" $title
-        "Date" $date
-        "resource" $image
-        "Params" $image.Params
-        "isVideo" false
-      )}}
     {{ end }}
 
     {{/* Collect videos */}}
