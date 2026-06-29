@@ -20,24 +20,6 @@
                 href="http://localhost:1313/pt/sao_paulo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/europe/paris/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/europe/paris/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/europe/paris/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/europe/paris/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pt/stockholm/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,42 +36,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/stockholm/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/europe/london/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/europe/london/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/europe/london/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/europe/london/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/europe/oslo/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/europe/oslo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/europe/oslo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/europe/oslo/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/about/</loc>
@@ -151,42 +97,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/europe/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/europe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/europe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/europe/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/categories/europe/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/europe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://localhost:1313/sv/categories/europe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/categories/europe/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/categories/su%C3%A9cia/</loc>
