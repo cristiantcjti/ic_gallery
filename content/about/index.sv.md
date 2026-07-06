@@ -21,7 +21,7 @@ Därför bestämde vi oss för att skapa den här webbplatsen för att dela dett
 
 Om du hittat vår webbplats är det för att vi redan känner varandra eller är nya vänner. Vi hoppas att ni gillar bilderna och att vi kan dela den här upplevelsen med er alla.
 
-Känn er fria att skicka meddelanden till oss och tack för att ni besöker vår webbplats.
+Tveka inte att skicka ett meddelande till oss. Om ni någon gång planerar att besöka Brasilien är ni varmt välkomna att kontakta oss. Det skulle vara ett nöje att få välkomna er. Tack för att ni besökte vår webbplats.
 
 Med kärlek,
 
