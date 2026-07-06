@@ -21,7 +21,7 @@ Por isso, resolvemos criar esses site para compartilhar com os amigos esse momen
 
 Se você chegou até o site é porque já nos conhecemos ou somos novos amigos. Esperamos que gostem das fotos e possamos dividir essa experiência com todos vocês. 
 
-Sintam-se à vontade para nos mandar mensagens e obrigado por visitar o site. 
+Sintam-se à vontade para nos mandar mensagens e quando quiserem vir para o Brasil podem nos contatar, será um prazer receber você e obrigado por visitar o site. 
 
 Com amor,
 

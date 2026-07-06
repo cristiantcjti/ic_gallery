@@ -21,7 +21,7 @@ That's why we decided to create this site to share this very special moment with
 
 If you've found our site, it's because we already know each other or we're new friends. We hope you enjoy the photos and that we can share this experience with all of you.
 
-Feel free to send us messages and thank you for visiting our site.
+Feel free to send us a message, and if you ever plan to visit Brazil, don't hesitate to contact us. It will be a pleasure to welcome you. Thank you for visiting our website.
 
 With love,
 
